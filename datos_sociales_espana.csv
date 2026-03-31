@@ -1,0 +1,25 @@
+tema,pais,indicador,periodo,valor,unidad,fuente,url,nota
+paro,España,Tasa de desempleo,Q4 2025,9.93,%,Trading Economics / INE,https://tradingeconomics.com/spain/unemployment-rate,Último dato trimestral citado en la fuente
+paro,España,Tasa de desempleo,Q3 2025,10.45,%,Reuters / INE,https://www.reuters.com/markets/europe/spains-unemployment-rate-rises-q3-more-people-look-job-2025-10-24/,Subió por mayor participación laboral
+paro,España,Tasa de desempleo juvenil,Oct 2025,25.3,%,Trading Economics / Eurostat,https://tradingeconomics.com/spain/youth-unemployment-rate,Dato mensual
+paro,España,Tasa de desempleo juvenil,Dic 2024,26.5,%,Trading Economics / Eurostat,https://tradingeconomics.com/spain/youth-unemployment-rate-eurostat-data.html,Referencia anual previa
+paro,España,Parados menores de 25,Nov 2023,500000.0,personas,The Diplomat in Spain / Eurostat,https://thediplomatinspain.com/en/2024/01/10/spain-leads-both-total-and-youth-unemployment-in-the-eu-with-rates-of-12-and-28/,Aproximación reportada
+paro,España,Tasa de desempleo,Nov 2023,11.9,%,The Diplomat in Spain / Eurostat,https://thediplomatinspain.com/en/2024/01/10/spain-leads-both-total-and-youth-unemployment-in-the-eu-with-rates-of-12-and-28/,España lideraba la UE-27
+paro,España,Tasa de desempleo juvenil,Nov 2023,27.9,%,The Diplomat in Spain / Eurostat,https://thediplomatinspain.com/en/2024/01/10/spain-leads-both-total-and-youth-unemployment-in-the-eu-with-rates-of-12-and-28/,España lideraba la UE-27
+paro,España,Población activa,2023,24100000.0,personas,EURES / Eurostat,https://eures.europa.eu/living-and-working/labour-market-information/labour-market-information-spain_en,"Más de 24,1 millones"
+paro,España,Tasa de empleo,2023,65.3,%,EURES / Eurostat,https://eures.europa.eu/living-and-working/labour-market-information/labour-market-information-spain_en,"5,1 pp por debajo de la media UE27"
+paro,España,Tasa de empleo juvenil,2023,23.6,%,EURES / Eurostat,https://eures.europa.eu/living-and-working/labour-market-information/labour-market-information-spain_en,Inferior a la media UE
+paro,España,Brecha desempleo UE27,2023,6.2,puntos porcentuales,EURES / Eurostat,https://eures.europa.eu/living-and-working/labour-market-information/labour-market-information-spain_en,España por encima de la UE27
+migración,España,Llegadas irregulares,1 ene-30 nov 2025,34251.0,personas,Visahq / Interior,https://www.visahq.com/news/2025-12-03/es/spain-reports-34251-irregular-migrant-arrivals-so-far-in-2025-299-fewer-than-in-2024/,Balance hasta noviembre
+migración,España,Llegadas irregulares,2024,64019.0,personas,Visahq / Interior,https://www.visahq.com/news/2025-12-03/es/spain-reports-34251-irregular-migrant-arrivals-so-far-in-2025-299-fewer-than-in-2024/,Base de comparación
+migración,España,Llegadas irregulares,2025,36775.0,personas,Euroweekly News / Interior,https://euroweeklynews.com/2026/01/03/spain-saw-42-6-drop-in-irregular-migrant-arrivals-in-2025/,Balance anual
+migración,España,Variación llegadas irregulares,2025 vs 2024,-42.6,%,Euroweekly News / Interior,https://euroweeklynews.com/2026/01/03/spain-saw-42-6-drop-in-irregular-migrant-arrivals-in-2025/,Descenso anual
+migración,España,Llegadas Canarias,2025,17788.0,personas,Daily Sabah / Interior,https://www.dailysabah.com/world/europe/spain-sees-over-40-drop-in-migrant-arrivals-in-2025,Ruta atlántica
+migración,España,Variación Canarias,2025 vs 2024,-62.0,%,Daily Sabah / Interior,https://www.dailysabah.com/world/europe/spain-sees-over-40-drop-in-migrant-arrivals-in-2025,Caída fuerte
+migración,España,Llegadas Baleares,2025,7321.0,personas,Daily Sabah / Interior,https://www.dailysabah.com/world/europe/spain-sees-over-40-drop-in-migrant-arrivals-in-2025,Ruta mediterránea
+migración,España,Variación Baleares,2025 vs 2024,24.5,%,Daily Sabah / Interior,https://www.dailysabah.com/world/europe/spain-sees-over-40-drop-in-migrant-arrivals-in-2025,Subida en Baleares
+migración,España,Solicitudes de residencia y trabajo,1 ene-20 may 2025,495000.0,solicitudes,La Moncloa,https://www.lamoncloa.gob.es/lang/en/gobierno/news/Paginas/2025/20251121-reside-work-applications.aspx,Antes de la reforma
+migración,España,Solicitudes de residencia y trabajo,21 may-31 oct 2025,724000.0,solicitudes,La Moncloa,https://www.lamoncloa.gob.es/lang/en/gobierno/news/Paginas/2025/20251121-reside-work-applications.aspx,Después de la reforma
+migración,España,Variación solicitudes,2025,46.2,%,La Moncloa,https://www.lamoncloa.gob.es/lang/en/gobierno/news/Paginas/2025/20251121-reside-work-applications.aspx,Crecimiento tras el cambio regulatorio
+migración,España,Población extranjera empleada,2022-2023,54.0,%,Banco de España,https://www.bde.es/f/webbe/SES/Secciones/Publicaciones/PublicacionesAnuales/InformesAnuales/23/Files/InfAnual_2023_Cap3_En.pdf,Participación en nuevos empleos
+migración,España,Aumento fuerza laboral por inmigración,2022-2023,96.1,%,Banco de España,https://www.bde.es/f/webbe/SES/Secciones/Publicaciones/PublicacionesAnuales/InformesAnuales/23/Files/InfAnual_2023_Cap3_En.pdf,Crecimiento de la fuerza laboral
